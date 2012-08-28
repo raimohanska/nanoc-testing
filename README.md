@@ -1,5 +1,7 @@
 # Nanoc testing
 
+Move along, this is just me playing around with Nanoc.
+
 ## Setup
 
     sudo gem update --system
